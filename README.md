@@ -9,6 +9,7 @@ Most of what's here started as a question I couldn't answer with a slide.
 Infrastructure and safety patterns for LLM agents.
 
 - **[agentic-trust-protocol](https://github.com/mavaali/agentic-trust-protocol)** — path-level safety for LLM agents: a trust budget, a staging area, and an irreversibility classifier inside Plan-then-Execute.
+- **[boundary](https://github.com/mavaali/boundary)** — an explicit safety envelope for tool-calling agents: scoped I/O, spend caps that fail closed, and graded runs. Published as boundary-envelope on PyPI.
 - **[jugalbandi-protocol](https://github.com/mavaali/jugalbandi-protocol)** — a dialectical protocol for agent task execution.
 - **[cricket-mcp](https://github.com/mavaali/cricket-mcp)** — cricket statistics MCP server: 14 tools over 21K matches and 10.9M deliveries, powered by DuckDB.
 - **[daftari](https://github.com/mavaali/daftari)** — an open-source, multi-user knowledge vault exposed to AI agents over MCP.
